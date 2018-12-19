@@ -6,13 +6,13 @@
  * Time: 14:48
  */
 
-namespace Tests\FactoryTest;
+namespace Tests\AbstractFactoryTest;
 
-use DesignerPatterns\Factory\AbstractFactory;
-use DesignerPatterns\Factory\HtmlFactory;
-use DesignerPatterns\Factory\JsonFactory;
+use DesignerPatterns\AbstractFactory\AbstractFactory;
+use DesignerPatterns\AbstractFactory\HtmlFactory;
+use DesignerPatterns\AbstractFactory\JsonFactory;
 
-class FactoryTest extends \PHPUnit_Framework_TestCase
+class AbstractFactoryTest extends \PHPUnit_Framework_TestCase
 {
     public function getFactories()
     {
@@ -41,6 +41,6 @@ class FactoryTest extends \PHPUnit_Framework_TestCase
          * $haystack 并非仅包含类型为 $type 的变量时报告错误，错误讯息由 $message 指定。
          * $isNativeType 是一个标志，用来表明 $type 是否是原生 PHP 类型。
          */
-        $this->assertContainsOnly('DesignerPatterns\Factory\MediaInterface', $article);
+        $this->assertContainsOnly('DesignerPatterns\AbstractFactory\MediaInterface', $article);
     }
 }

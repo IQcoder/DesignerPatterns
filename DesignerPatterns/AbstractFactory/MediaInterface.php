@@ -6,7 +6,7 @@
  * Time: 14:42
  */
 
-namespace DesignerPatterns\Factory;
+namespace DesignerPatterns\AbstractFactory;
 
 /**
  * MediaInterface接口

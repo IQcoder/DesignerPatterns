@@ -3,13 +3,13 @@
  * Created by PhpStorm.
  * User: chenchangqin
  * Date: 2018/12/19
- * Time: 14:41
+ * Time: 14:40
  */
 
-namespace DesignerPatterns\Factory;
+namespace DesignerPatterns\AbstractFactory;
 
 
-class HtmlFactory extends AbstractFactory
+class JsonFactory extends AbstractFactory
 {
     /**
      * 创建图片组件
@@ -17,11 +17,11 @@ class HtmlFactory extends AbstractFactory
      * @param string $path
      * @param string $name
      *
-     * @return Html\Picture|BasePicture
+     * @return Json\Picture|BasePicture
      */
     public function createPicture($path, $name = '')
     {
-        return new Html\Picture($path, $name);
+        return new Json\Picture($path, $name);
     }
 
     /**
@@ -29,10 +29,10 @@ class HtmlFactory extends AbstractFactory
      *
      * @param string $content
      *
-     * @return Html\Text|BaseText
+     * @return Json\Text|BaseText
      */
     public function createText($content)
     {
-        return new Html\Text($content);
+        return new Json\Text($content);
     }
 }

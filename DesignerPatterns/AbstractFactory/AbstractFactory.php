@@ -6,7 +6,7 @@
  * Time: 11:49
  */
 
-namespace DesignerPatterns\Factory;
+namespace DesignerPatterns\AbstractFactory;
 
 
 abstract class AbstractFactory

@@ -6,10 +6,10 @@
  * Time: 14:47
  */
 
-namespace DesignerPatterns\Factory\Html;
+namespace DesignerPatterns\AbstractFactory\Html;
 
 
-use DesignerPatterns\Factory\BasePicture;
+use DesignerPatterns\AbstractFactory\BasePicture;
 
 class Picture extends BasePicture
 {

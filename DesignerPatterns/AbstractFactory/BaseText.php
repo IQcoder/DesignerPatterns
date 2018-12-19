@@ -6,7 +6,7 @@
  * Time: 14:43
  */
 
-namespace DesignerPatterns\Factory;
+namespace DesignerPatterns\AbstractFactory;
 
 
 abstract class BaseText implements MediaInterface

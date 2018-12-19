@@ -6,10 +6,10 @@
  * Time: 14:47
  */
 
-namespace DesignerPatterns\Factory\Html;
+namespace DesignerPatterns\AbstractFactory\Html;
 
 
-use DesignerPatterns\Factory\BaseText;
+use DesignerPatterns\AbstractFactory\BaseText;
 
 class Text extends BaseText
 {

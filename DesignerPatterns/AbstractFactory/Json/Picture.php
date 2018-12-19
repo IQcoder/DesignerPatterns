@@ -6,9 +6,9 @@
  * Time: 14:44
  */
 
-namespace DesignerPatterns\Factory\Json;
+namespace DesignerPatterns\AbstractFactory\Json;
 
-use DesignerPatterns\Factory\BasePicture;
+use DesignerPatterns\AbstractFactory\BasePicture;
 
 /**
  * Picture类

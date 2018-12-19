@@ -6,10 +6,10 @@
  * Time: 14:46
  */
 
-namespace DesignerPatterns\Factory\Json;
+namespace DesignerPatterns\AbstractFactory\Json;
 
 
-use DesignerPatterns\Factory\BaseText;
+use DesignerPatterns\AbstractFactory\BaseText;
 
 class Text extends BaseText
 {
