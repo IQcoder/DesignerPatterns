@@ -1,0 +1,21 @@
+{
+    "name": "chenchangqin/design",
+    "description": "Study Php Designer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenchangqin",
+            "email": "chenchangqin@globalegrow.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DesignerPatterns\\": "DesignerPatterns/",
+            "Tests\\": "Tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
