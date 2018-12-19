@@ -14,6 +14,7 @@
 * [建造者模式（Builder）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/Builder/README.md)
 * [工厂方法模式（Factory Method）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/FactoryMethod/README.md)
 * [多例模式（Multiton）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/Multiton/README.md)
+* [对象池模式（Object Pool）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/ObjectPool/README.md)
 
 #### 结构型
 * [依赖注入模式（Dependency Injection）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/DependencyInjection/README.md)
