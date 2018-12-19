@@ -1,4 +1,4 @@
-# PHP 设计模式系列 —— 依赖注入模式（Dependency Injection）
+# PHP 设计模式 —— 依赖注入模式（Dependency Injection）
 ## 1、模式定义
 依赖注入（Dependency Injection）是控制反转（Inversion of Control）的一种实现方式。
 
