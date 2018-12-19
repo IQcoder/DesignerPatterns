@@ -8,4 +8,4 @@
 
 这种机制让替换平台变得简单，因为抽象工厂的具体实现类只有在实例化的时候才出现，如果要替换的话只需要在实例化的时候指定具体实现类即可。
 ## 4、UML类图
-![Factory-UML.png](/static/images/Factory-UML.png)
+![Factory-UML.png](/static/images/Abstract-Factory-UML.png)
