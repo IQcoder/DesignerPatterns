@@ -10,6 +10,9 @@
 ### 常用设计模式大全
 #### 创建型
 
-* [抽象工厂模式（Abstract Factory）](file:////DesignerPatterns/AbstractFactory/README.md)
-* [建造者模式（Builder）](file:////DesignerPatterns/Builder/README.md)
-* [工厂方法模式（Factory Method）](file:////DesignerPatterns/FactoryMethod/README.md)
+* [抽象工厂模式（Abstract Factory）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/AbstractFactory/README.md)
+* [建造者模式（Builder）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/Builder/README.md)
+* [工厂方法模式（Factory Method）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/FactoryMethod/README.md)
+
+#### 结构型
+* [依赖注入模式（Dependency Injection）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/DependencyInjection/README.md)

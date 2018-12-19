@@ -9,3 +9,5 @@
 这种机制让替换平台变得简单，因为抽象工厂的具体实现类只有在实例化的时候才出现，如果要替换的话只需要在实例化的时候指定具体实现类即可。
 ## 4、UML类图
 ![Factory-UML.png](/static/images/Abstract-Factory-UML.png)
+## 5、总结
+最后我们以工厂生产产品为例，所谓抽象工厂模式就是我们的抽象工厂约定了可以生产的产品，这些产品都包含多种规格，然后我们可以从抽象工厂为每一种规格派生出具体工厂类，然后让这些具体工厂类生产具体的产品。以上示例中AbstractFactory是抽象工厂，JsonFactory和HtmlFactory是具体工厂，Html\Picture、Html\Text、Json\Picture和Json\Text都是具体产品，客户端需要HTML格式的Text，调用HtmlFactory的createText方法即可，而不必关心其实现逻辑。
