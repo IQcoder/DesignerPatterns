@@ -1,11 +1,11 @@
 {
-    "name": "chenchangqin/design",
+    "name": "stchencq/design",
     "description": "Study Php Designer",
     "license": "MIT",
     "authors": [
         {
-            "name": "chenchangqin",
-            "email": "chenchangqin@globalegrow.com"
+            "name": "stchencq",
+            "email": "stchencq@gmail.com"
         }
     ],
     "require": {},
