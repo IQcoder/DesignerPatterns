@@ -1,4 +1,4 @@
-# PHP设计模式 (DesignerPatterns)
+# PHP设计模式 (Creational)
 ## PHP设计模式
 
 在软件工程中，设计模式（Design Pattern）是对软件设计中普遍存在（反复出现）的各种问题，所提出的解决方案。这个术语是由埃里希·伽玛（Erich Gamma）等人在1990年代从建筑设计领域引入到计算机科学的。
@@ -10,11 +10,13 @@
 ### 常用设计模式大全
 #### 创建型
 
-* [抽象工厂模式（Abstract Factory）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/AbstractFactory/README.md)
-* [建造者模式（Builder）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/Builder/README.md)
-* [工厂方法模式（Factory Method）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/FactoryMethod/README.md)
-* [多例模式（Multiton）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/Multiton/README.md)
-* [对象池模式（Object Pool）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/ObjectPool/README.md)
+* [抽象工厂模式（Abstract Factory）](https://github.com/IQcoder/Creational/blob/master/Creational/AbstractFactory/README.md)
+* [建造者模式（Builder）](https://github.com/IQcoder/Creational/blob/master/Creational/Builder/README.md)
+* [工厂方法模式（Factory Method）](https://github.com/IQcoder/Creational/blob/master/Creational/FactoryMethod/README.md)
+* [多例模式（Multiton）](https://github.com/IQcoder/Creational/blob/master/Creational/Multiton/README.md)
+* [对象池模式（Object Pool）](https://github.com/IQcoder/Creational/blob/master/Creational/ObjectPool/README.md)
+* [原型模式（Prototype）](https://github.com/IQcoder/Creational/blob/master/Creational/Prototype/README.md)
+* [简单工厂模式（Simple Factory）](https://github.com/IQcoder/Creational/blob/master/Creational/SimpleFactory/README.md)
 
 #### 结构型
-* [依赖注入模式（Dependency Injection）](https://github.com/IQcoder/DesignerPatterns/blob/master/DesignerPatterns/DependencyInjection/README.md)
+* [依赖注入模式（Dependency Injection）](https://github.com/IQcoder/Creational/blob/master/Stuctural/DependencyInjection/README.md)

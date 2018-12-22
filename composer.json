@@ -11,7 +11,10 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "DesignerPatterns\\": "DesignerPatterns/",
+            "Creational\\": "Creational/",
+            "Behavioral\\": "Behavioral/",
+            "Structural\\": "Structural/",
+            "More\\": "More/",
             "Tests\\": "Tests/"
         }
     },
