@@ -8,7 +8,9 @@
             "email": "stchencq@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "doctrine/dbal": "^2.9"
+    },
     "autoload": {
         "psr-4": {
             "Creational\\": "Creational/",
