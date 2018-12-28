@@ -9,14 +9,45 @@
 
 ### 常用设计模式大全
 #### 创建型
-
-* [抽象工厂模式（Abstract Factory）](https://github.com/IQcoder/Creational/blob/master/Creational/AbstractFactory/README.md)
-* [建造者模式（Builder）](https://github.com/IQcoder/Creational/blob/master/Creational/Builder/README.md)
-* [工厂方法模式（Factory Method）](https://github.com/IQcoder/Creational/blob/master/Creational/FactoryMethod/README.md)
-* [多例模式（Multiton）](https://github.com/IQcoder/Creational/blob/master/Creational/Multiton/README.md)
-* [对象池模式（Object Pool）](https://github.com/IQcoder/Creational/blob/master/Creational/ObjectPool/README.md)
-* [原型模式（Prototype）](https://github.com/IQcoder/Creational/blob/master/Creational/Prototype/README.md)
-* [简单工厂模式（Simple Factory）](https://github.com/IQcoder/Creational/blob/master/Creational/SimpleFactory/README.md)
+在软件工程中，创建型设计模式用于处理对象的实例化：
+* [抽象工厂模式（Abstract Factory）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/AbstractFactory/README.md)
+* [建造者模式（Builder）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/Builder/README.md)
+* [工厂方法模式（Factory Method）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/FactoryMethod/README.md)
+* [多例模式（Multiton）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/Multiton/README.md)
+* [对象池模式（Object Pool）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/ObjectPool/README.md)
+* [原型模式（Prototype）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/Prototype/README.md)
+* [简单工厂模式（Simple Factory）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/SimpleFactory/README.md)
+* [单例模式（Singleton）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/Singleton/README.md)
+* [静态工厂模式（Static Factory）](https://github.com/IQcoder/DesignerPatterns/blob/master/Creational/StaticFactory/README.md)
 
 #### 结构型
-* [依赖注入模式（Dependency Injection）](https://github.com/IQcoder/Creational/blob/master/Stuctural/DependencyInjection/README.md)
+结构型设计模式用于处理类和对象的组合：
+* [适配器模式（Adapter）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/Adapter/README.md)
+* [桥梁模式（Bridge）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/Bridge/README.md)
+* [组合模式（Composite）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/Composite/README.md)
+* [数据映射模式（Data Mapper）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/DataMapper/README.md)
+* [装饰模式（Decorator）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/Decorator/README.md)
+* [依赖注入模式（Dependency Injection）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/DependencyInjection/README.md)
+* [门面模式（Facade）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/Facade/README.md)
+* [流接口模式（Fluent Interface）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/FluentInterface/README.md)
+* [代理模式（Proxy）](https://github.com/IQcoder/Creational/blob/master/Stuctural/Proxy/README.md)
+* [注册模式（Registry）](https://github.com/IQcoder/DesignerPatterns/blob/master/Stuctural/Registry/README.md)
+#### 行为型
+行为型设计模式用于处理类的对象间通信：
+* [责任链模式（Chain Of Responsibilities）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/ChainOfResponsibilities/README.md)
+* [命令行模式（Command）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/Command/README.md)
+* [迭代器模式（Iterator）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/Iterator/README.md)
+* [中介者模式（Mediator）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/Mediator/README.md)
+* [备忘录模式（Memento）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/Memento/README.md)
+* [空对象模式（Null Object）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/NullObject/README.md)
+* [观察者模式（Observer）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/Observer/README.md)
+* [规格模式（Specification）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/Specification/README.md)
+* [状态模式（State）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/State/README.md)
+* [策略模式（Strategy）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/Strategy/README.md)
+* [模板方法模式（Template Method）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/TemplateMethod/README.md)
+* [访问者模式（Visitor）](https://github.com/IQcoder/DesignerPatterns/blob/master/Behavioral/Visitor/README.md)
+#### 其它
+* [委托模式（Delegation）](https://github.com/IQcoder/DesignerPatterns/blob/master/More/Delegation/README.md)
+* [服务定位器模式（Service Locator）](https://github.com/IQcoder/DesignerPatterns/blob/master/More/ServiceLocator/README.md)
+* [资源库模式（Repository）](https://github.com/IQcoder/DesignerPatterns/blob/master/More/Repository/README.md)
+
